@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="51.300435"
-     inkscape:cy="9.5640564"
+     inkscape:zoom="4"
+     inkscape:cx="59.424135"
+     inkscape:cy="36.356526"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -514,16 +514,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(70,-1122.493)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       id="rect8894"
-       width="80"
-       height="40.000019"
-       x="-70"
-       y="1122.3622"
-       inkscape:export-filename="/var/www/jq-idealforms/img/radiocheck.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <path
        transform="translate(0,1013.3622)"
        d="m -51,140 c 0,4.97056 -4.029437,9 -9,9 -4.970563,0 -9,-4.02944 -9,-9 0,-4.97056 4.029437,-9 9,-9 4.970563,0 9,4.02944 9,9 z"
